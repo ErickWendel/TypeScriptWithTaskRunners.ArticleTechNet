@@ -8,7 +8,6 @@ Muito se fala do desenvolvimento de aplicações utilizando o MEAN Stack (Mongod
 
 Para isto, hoje trabalharemos com o VS Code, editor de texto da Microsoft, explorando suas ferramentas de automatização de tarefas, compilação e desenvolvimento.
 
- 
 
 Neste exemplo, abordamos os seguintes exemplos:
 
@@ -18,3 +17,12 @@ Neste exemplo, abordamos os seguintes exemplos:
 <li>Tarefas com VSCode</li>
 <li>Compilador TSC</li>
 </ul>
+Para executar esta demonstração, via terminal node digite
+
+ <code>
+ npm install 
+ </code>
+ <br>
+ <code>
+ node lib/index.js
+ </code>
